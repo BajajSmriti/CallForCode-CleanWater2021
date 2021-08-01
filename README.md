@@ -12,7 +12,7 @@ If we analyze our ecosystem, we can see many prevailing factors like, Arable lan
 With the industrial setbacks due to the COVID-19 pandemic, we were more dependent on machines, people and SME's experiences. The data collected through these and many other sources via [aquastat](http://www.fao.org/aquastat/en/) has helped us identify the culprits of our biosphere. Hereby, we have visualized some very critical insights backed by IBM Cloud and Watson Services which will enable us to bridge the gaps between vast inequalities in the accessibility, availability, and quality of the services. 
 
 ### Demo video
-
+https://www.youtube.com/watch?v=03ynk_jeNXw
 
 ### Data cleaning
 This notebook cleans the aquastat data of 200 countries and carves out the insights depicting the most impactful features leveraging the unsupervised machine learning techniques like PCA and T-SNE.
